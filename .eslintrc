@@ -6,9 +6,7 @@
   },
   "settings": {
     "import/resolver": {
-      "node": {
-        "extensions": [".js", ".ios.js", ".android.js"]
-      }
+      "babel-module": {}
     }
   },
   "extends": "airbnb",
