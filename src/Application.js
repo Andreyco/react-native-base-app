@@ -18,7 +18,7 @@ export default function Application() {
         Welcome to React Native!
       </Text>
       <Text style={styles.instructions}>
-        To get started, edit src/App.js
+        To get started, edit src/Application.js
       </Text>
       <Text style={styles.instructions}>
         Press Cmd+R to reload,{'\n'}
